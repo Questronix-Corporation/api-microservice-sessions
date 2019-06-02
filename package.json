@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/Questronix-Corporation/api-microservice-sessions/issues"
   },
-  "homepage": "https://github.com/Questronix-Corporation/api-microservice-sessions#readme"
+  "homepage": "https://github.com/Questronix-Corporation/api-microservice-sessions#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.4",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "mysql": "^2.17.1",
+    "rekuire": "^0.1.9",
+    "serve-favicon": "^2.5.0",
+    "winston": "^2.4.1"
+  }
 }
